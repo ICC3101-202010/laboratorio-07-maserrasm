@@ -1,0 +1,11 @@
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\bin\Debug\Lab7MSSM.exe.config
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\bin\Debug\Lab7MSSM.exe
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\bin\Debug\Lab7MSSM.pdb
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\obj\Debug\Lab7MSSM.csprojAssemblyReference.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\obj\Debug\Lab7MSSM.Form1.resources
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\obj\Debug\Lab7MSSM.Properties.Resources.resources
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\obj\Debug\Lab7MSSM.csproj.GenerateResource.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\obj\Debug\Lab7MSSM.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\obj\Debug\Lab7MSSM.exe
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\obj\Debug\Lab7MSSM.pdb
+C:\Users\Manuel\Dropbox\UANDES\S07\POO\Lab7\CalculadoraMSSM\Lab7MSSM\Lab7MSSM\obj\Debug\Lab7MSSM.opHistory.resources
